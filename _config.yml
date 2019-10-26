@@ -1,13 +1,13 @@
 # Setup
-title:        MZCL.TK
-tagline:      Welcome to MZCL.TK
+title:        MaziaraA.Net
+tagline:      Welcome to MaziarA.Net
 baseurl:      ""
 paginate:     1
 
 # About/contact
 author:
   name:       Maziar
-  url:        http://mzcl.tk
+  url:        https://maziara.net
 
 # Gems
 gems:
